@@ -42,7 +42,7 @@ public class Primer_avance {
 
     }
 public static void menu() {
-        JOptionPane.showMessageDialog(null, "Bienbenido al sistema de The Brother's BarberShop\n"
+        JOptionPane.showMessageDialog(null, "Bienvenido al sistema de The Brother's BarberShop\n"
         + "Opccion 1: Calendario\n"
         + "Opccion 2: Barberos\n"
         + "Opccion 3: Precios\n"
